@@ -1,6 +1,7 @@
 # FrosTON
 This project implements creating and verifying threshold signatures using FROST protocol on TON. In this repository key generation ceremony and signing is discussed which can be tested in `frost_exec.py`. The script outputs integers that can be used in FunC to verify correctness. The contracts are available at [FrosTON-Contracts](https://github.com/alirezatabatabaeian/FrosTON-contracts).
 
+Update (2h after deadline): To provide a more clear information on the protocol and steps, a new [Report](https://github.com/alirezatabatabaeian/FrosTON/blob/main/FrosTON-report.pdf) is added to the project for easier evaluation.
 ## Building
 First clone the repo.
 
